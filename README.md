@@ -7,10 +7,10 @@
 ## 🚀 About Me
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Software+Developer;Software+Testing+Engineer;Tech+Content+Creator;Building+the+Future+with+AI+%26+ML)](https://git.io/typing-svg)
 
-I am a passionate **Software Developer** and **QA Enthusiast** currently embarking on my journey as a Fresher. I thrive on solving complex problems and building scalable applications. Beyond coding, I am a digital storyteller, sharing tech insights across YouTube and Instagram to help others navigate the world of technology.
+I am a passionate **Software Developer** and **Software Testing** enthusiast currently embarking on my journey as a Fresher. I thrive on solving complex problems and building scalable applications. Beyond coding, I am a digital storyteller, sharing tech insights across YouTube and Instagram to help others navigate the world of technology.
 
-* 🎓 **Always Learning:** Currently diving deep into AI/ML and Cloud Architectures.
-* ✍️ **Content Creator:** I turn complex tech concepts into easy-to-digest content.
+* 🎓 **Always Learning:** Currently diving deep into NLP, RAG, and Cloud Architectures.
+* ✍️ **Content Creator:** I turn complex tech concepts into easy-to-digest content on YouTube and Instagram.
 * ⚡ **Fun Fact:** I believe a good cup of coffee and a clean Git history are the keys to happiness.
 * 🛠️ **Problem Solver:** I enjoy breaking things (testing) just as much as building them.
 
@@ -21,11 +21,11 @@ I am a passionate **Software Developer** and **QA Enthusiast** currently embarki
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚙️ Backend & AI
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![AI](https://img.shields.io/badge/AI-Artificial%20Intelligence-blue?style=for-the-badge) ![ML](https://img.shields.io/badge/ML-Machine%20Learning-orange?style=for-the-badge)
+### ⚙️ Backend & AI/ML
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blue?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-orange?style=for-the-badge) ![ML](https://img.shields.io/badge/ML-Machine%20Learning-red?style=for-the-badge)
 
 ### 🔧 Tools & OS
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -56,6 +56,6 @@ I am a passionate **Software Developer** and **QA Enthusiast** currently embarki
 ---
 
 <p align="center">
-  <b>Thanks for stopping by! Keep coding and stay curious.</b><br>
+  <b>Let's build something amazing together!</b><br>
   ⭐️ From <i>Bandaru Balu</i>
 </p>
